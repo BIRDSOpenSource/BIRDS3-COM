@@ -1,8 +1,9 @@
-
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
-
+<div align="center">
+  <a href="https://lean-sat.org/opensource/">
+  <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
+  </a>
+</div>
+<br/>
 <div align="center">
 <img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd">
 </div>
